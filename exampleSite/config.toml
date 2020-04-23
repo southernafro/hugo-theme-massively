@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.savets.org/"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 disqusShortname = ""
 googleanalytics = ""
@@ -7,3 +7,4 @@ theme = "hugo-theme-massively"
 title = "The Savets"
 [languages.en]
 languageName = "English"
+live_base_url = "https://www.savets.org"
