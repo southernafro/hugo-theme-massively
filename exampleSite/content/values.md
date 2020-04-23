@@ -1,7 +1,6 @@
 +++
 date = 2020-03-31T23:00:00Z
 description = "Our experiences though seemingly unique tend to be interwoven. As such it is important that we make it clear that we care."
-draft = true
 image = "https://savets.org/img/friends-3042751_1920.jpg"
 slug = "Values"
 title = "Values"
