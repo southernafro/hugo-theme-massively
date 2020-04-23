@@ -9,10 +9,7 @@ min_version = "0.54.0"
 
 [author]
     name = "Curtis Timson"
-    homepage = "https://curtistimson.co.uk/"
-
 # If porting an existing theme
 [original]
     author = "HTML5UP"
-    homepage = "https://html5up.net"
-    repo = "https://html5up.net/massively"
+ 
