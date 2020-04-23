@@ -1,9 +1,6 @@
-contactformaction: 'post-action'
+/* contactformaction: 'post-action'
 
 address:
-- line: '1234 Somewhere Road #87257'
-- line: 'Nashville, TN 00000-0000'
+- line: 'Nashville, TN'
 
-phone: '(800) 000-0000'
-
-email: 'someone@untitled.tld'
+email: 'des@savets.org'
