@@ -1,15 +1,15 @@
 +++
-date = ""
+date = 2020-03-31T23:00:00Z
 description = "Our experiences though seemingly unique tend to be interwoven. As such it is important that we make it clear that we care."
 draft = true
-image = ""
+image = "https://savets.org/img/friends-3042751_1920.jpg"
 slug = "Values"
 title = "Values"
 
 +++
 ### We Care
 
-Our experiences though seemingly unique tend to be interwoven. As such it is important that we make it clear that we care. We care because we share your love for mankind’s best friend. You will not find a friend as loyal no matter where you look. This is why we are committed to creating the very best content for you and for your dog. We are committed to continuing to search for new information and providing it to you in a way that is easy to digest. The richer your content is the easier it gets to engage an audience. As scientific research makes strides, we aim to follow in its footsteps to ensure that this knowledge is made available to you in a timely manner.
+Our experiences, though seemingly unique tend to be interwoven. As such it is important that we make it clear that we care. We care because we share your love for mankind’s best friend. You will not find a friend as loyal no matter where you look. This is why we are committed to creating the very best content for you and for your dog. We are committed to continuing to search for new information and providing it to you in a way that is easy to digest. The richer your content is the easier it gets to engage an audience. As scientific research makes strides, we aim to follow in its footsteps to ensure that this knowledge is made available to you in a timely manner.
 
 ![](https://savets.org/img/friends-3042751_1920.jpg)
 
