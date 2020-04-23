@@ -4,9 +4,6 @@ disqusShortname = ""
 googleanalytics = ""
 languageCode = "en-us"
 theme = "hugo-theme-massively"
-title = "Massively"
+title = "The Savets"
 [languages.en]
 languageName = "English"
-[languages.es]
-languageName = "Español"
-title = "Massively - Versión Español"
