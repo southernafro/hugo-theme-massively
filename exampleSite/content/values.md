@@ -1,6 +1,6 @@
 +++
 date = ""
-description = ""
+description = "Our experiences though seemingly unique tend to be interwoven. As such it is important that we make it clear that we care."
 draft = true
 image = ""
 slug = "Values"
