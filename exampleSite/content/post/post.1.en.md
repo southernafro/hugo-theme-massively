@@ -1,8 +1,37 @@
 +++
-title = 'Primis eget imperdiet lorem'
-slug = 'post1'
-image = 'images/pic03.jpg'
-description = 'Example of post with missing date property'
+description = "A complete guide to finding the perfect dog just for you. Dogs are the funniest, cutest and friendliest ever they're not called man's best friend for nothing"
 disableComments = true
+image = ""
+slug = "What Dog Breed Should I Choose?"
+title = "What Dog Breed Should I Choose?"
+
 +++
-Example of post with missing date property.
+A complete guide to finding the perfect dog just for you. Dogs are the funniest, cutest and friendliest ever they're not called man's best friend for nothing right but with hundreds of breeze to choose from which one would perfectly suit your lifestyle and needs let's find out but first well you're searching for your perfect canine companion also keep an eye out for 3 bright side light bulbs hidden throughout this video once you've found the mall comment the time stamps down below good luck. .
+
+![What Dog Breed Should I Choose?](https://savets.org/img/dog%20brown.jpg)
+
+Counting down from number 12 guard dogs a lot of people are looking not only for a friend but also a faithful guardian in their dog if you’re one of those people and you want your pooch to look after your home you should probably consider a rottweiler, Doberman pinscher or German shepherd.
+
+These breeds are natural guard dogs since they don’t trust Rangers that easily and they’ll do a good job of protecting your house now that doesn’t mean they won’t be funny or cute don’t worry they can easily do both you probably won’t find a good fit in retrievers though these dogs are usually way too friendly so burglars would be welcome with a wagging tail and sloppy kisses.
+
+11 family friendly docks if you have a big family full of kids or just welcomed a new born into this world can seem challenging to pick the perfect Aubrey of course pretty much every dog loves children but this would be a territory where a Labrador or golden retriever would be completely unbeatable they just adore children and are always ready to play nothing makes them happier than fetching a ball if their size intimidate you consider getting a beagle puppy can ace may not be a good choice though they usually prefer to be the only child in the family. Number 10 athletic dogs if you lead an active lifestyle and love going for a daily jog you probably wouldn’t mind having a training buddy around would you consider getting a pointer or setter since they’re pretty much built for running if you want something a bit smaller a Jack Russell terrier can be a good choice as well.
+
+## Consider This
+
+It’s not a good idea to get an English bulldog or a puck still most probably struggle from over exercising steer clear of any large daqui breeds too they may be too heavy and the frequent running can damage their joints. Number 9 lap dogs what could be better than chilling out on the couch and watching some TV after a hard day’s work if you’re looking for a furry cuddle buddy will always be happy to lease around on the sofa with you a French bulldog or a Maltese is your perfect fit they’ll always be by your side or in your lap whenever you’re reading a nice book or watching your favorite TV show any working breeds are usually completely different they require lots of exercise and activity hence the name. Number 8 dogs for busy singles a lot of people stop themselves from getting a dog because they’re constantly out of the house.
+
+> Of course, generally speaking dogs are social animals but still some breeds deal with being home alone better than others if this describes your lifestyle think about getting a shar pei or a basset hound retrievers and colleagues on the other hand are too good fit for you because they like and require constant socializing and don’t forget that any dog needs love and attention you should get one if you won’t be able to spend at least some time with your body. Maybe you should get a cat most of the cancer I know could care less if you’re around or not but that’s just me. You haven’t forgotten about the labels have you keep looking. Number 7 dogs for seniors freshmen and sophomores get their own breeds.
+
+If you’re retired and have decided to welcome a dog in your home a good option for you would be a Boston terrier a plug for a cavalier King Charles spaniel toy that’s a name their affectionate and playful without requiring lots of exercise large dogs however can be a little tricky sometimes they’re mostly active and need a lot of attention and a sufficient amount of exercise. Number 6 dogs for an apartment now if you’re living in an apartment there are certain dog breeds that will suit you a bit more than others surprisingly the size doesn’t always matter here it’s about the dog’s temperament if the dog is small it doesn’t necessarily mean it’ll be happy living in a smaller space consider getting a Yorkshire terrier or a bulldog if you’re interested in chill wallets you might want to think twice here these dogs are tiny but very active.
+
+## What you need to know before getting a dog
+
+Number 5 dogs for a multi Pat households if you already have pets at home getting another one is pretty challenging and potentially dangerous you have to choose the breed carefully since you surely want all your pets to get along retrievers colleagues in spaniels are always happy to have company to play with so they’ll likely make a great match with your other pets terriers are breeds typically used in dawn fighting can sometimes be a bit complicated without a doubt they have beautiful personalities but unfortunately fighter dogs were bred to be aggressive and competitive it’s simply in their nature.
+
+Number 4 dogs they do well in hot climates most of us love summer but not all dogs will agree if you live in a place where it’s hot most of the year you should think carefully about which dog again surprisingly many short hair breeds would seriously struggle in a tropical climate since tolerance to hot weather depends not only on the coat but on the dog’s facial structure in size as well most terriers can’t take the heat and they come in lots of sizes at the same time St Bernards channel 8 and boxers won’t feel good in hot weather.
+
+Number 3 dogs that do well in cold climates if where you live is the complete opposite of the type of climate we just talked about then your options obviously will be different breeds that prefer a colder climate normally have a thick double coat in more body fat so as you can probably guess a good choice is a Saint Bernard malamute husky or Sam or they feel right at home in cold temperatures dobermans on the other hand 8 the call.
+
+Number 2 hypo allergenic dogs now if you’re allergic to dog hair you’ve probably sworn off the idea of ever owning a canine but hold on there for a sec dander which is attached to pad here is the most common cause of pet allergies schnauzers can be a good choice since they’re known for producing less dander than other breeds another good option is a portal and any of its designer crossbreeds like labradoodle spools and the list of GMO doggies goes on just know that your allergies may still act up from time to time but overall it won’t be as bad as with the other Brits German shepherds aren’t a good breed for you due to their dry skin which results in a lot of dander build up the same goes for a long haired breeze as well or you can always get the dog you want and then just double down on the allergy medicine like I did.
+
+Number one dogs for a newbie getting a dog for the first time ever is both exciting and nerve wracking there are so many breeds to choose from and they’re all so cute and adorable if you’re new to the dog owning world then a Labrador border collie or poodle will be perfect for you these breeds are very intelligent relatively easy to train and they’re not stubborn schnauzers and terriers require a bit more patients stop but they’re still great choices the best thing to do is find a good shelter in your area make sure to mention you’re a newbie so that they can find you the best fit and next thing you know you’ll be coming home with a lucky dog that’ll surely become your most loyal friend.
