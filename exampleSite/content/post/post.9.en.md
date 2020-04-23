@@ -11,6 +11,8 @@ Dogs are excellent human companions. When it comes to breeding they specialize i
 
 They had to be born via the cesarean section. Not all of them survived, one was stillborn whilst three others died in the week to follow. Who doesn't love to cuddle a puppy? Dogs, just like people have health needs and these escalate towards the time when they have to give birth. You must know your options so you can help your dog through labor.
 
+![](https://res2.forestry.io/U58XLeS9wF4YbDUCMBWahkgmv-Lk3JGZVJ3wg5WQ09A/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVDJwNmJrRlJQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMTc3/MGY0YWEyMWQzN2E3/Yjg1NjVjMmMyNDk2/ZjA1MWZjN2Y5NzE3/MS9sYXJnZWRvZ3B1/cHB5LmpwZw)
+
 ## What do a dog's nipples look like when pregnant
 
 Have you ever wondered how you get to know if your dog is pregnant? It helps you prepare adequately for your new family members. If it comes as a surprise you may not be able to give them the care they need immediately. The dog's gestation period is between 56 and 70 days, which is very little time for you to prepare and help your dog through it all. This means that you have to act fast.
