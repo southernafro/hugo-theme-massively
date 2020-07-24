@@ -29,3 +29,4 @@ package = "netlify-plugin-subfont"
 package = "@netlify/plugin-sitemap"
   [plugins.inputs]
   buildDir = "public"
+[[build]]
