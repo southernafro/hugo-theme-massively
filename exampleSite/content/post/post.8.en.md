@@ -2,18 +2,18 @@
 date = 2019-03-07T00:00:00Z
 description = "Your dog licking you is not all bad. It shows his or her excitement and affection. Just like humans have different ways of showing affection, your dog may see this like a hug. They also use this as communication."
 disableComments = true
-image = "images/doglicking.jpg"
+image = "/uploads/doglicking.jpg"
 slug = "how to stop a dog from licking you"
 title = "How to stop a dog from licking you"
 
 +++
-![](https://res2.forestry.io/V40ZwDFK5xSCWcEjf408hO3e9m-wxACW8Po66ZZ8ZwM/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVHpjMmJrRlJQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZTAx/MzhhZGMzZjhjM2Q0/ODc4MmM2NWFiYmMx/MDE2NmFmMzkwODFm/Yi9kb2dsaWNraW5n/LmpwZw)
+![](/uploads/doglicking.jpg)
 
-I love my Great Dane, but he doesn't always have the best timing. I had waited for this call for months, finally, I get to interview a high profile case and my white blouse will be perfect. I step out and he leaps at me as usual, to slather on "love". I would usually let him, but today I don't have the time. A quick change into the blue blouse I was avoiding gets me thinking. Could there be a way I could stop my dog from licking me but not break his heart? Heres some useful information I found.
+I love my Great Dane, but he doesn't always have the best timing. I had waited for this call for months, finally, I get to interview a high profile case and my white blouse will be perfect. I step out and he leaps at me as usual, to slather on "love". I would usually let him, but today I don't have the time. A quick change into the blue blouse I was avoiding gets me thinking. Could there be a way I could stop my dog from licking me but not break his heart? Here's some useful information I found.
 
 ## Reasons why your dog may be licking you
 
-Your dog licking you is not all bad. It shows his or her excitement and affection. Just like humans have different ways of showing affection, your dog may see this like a hug. They also use this as communication. Some dog behaviorists say this can be a sign of submission. He or she may be trying to say hello or maybe trying to coax you into playing. Unfortunately, their timing, just like my great Dane, is not always the best and you may not be able to indulge your dog if your dog isn't one to show affection, then his or her reason for licking you may be more logical. 
+Your dog licking you is not all bad. It shows his or her excitement and affection. Just like humans have different ways of showing affection, your dog may see this as a hug. They also use this as communication. Some dog behaviorists say this can be a sign of submission. He or she may be trying to say hello or maybe trying to coax you into playing. Unfortunately, their timing, just like my great Dane, is not always the best and you may not be able to indulge your dog if your dog isn't one to show affection, then his or her reason for licking you may be more logical.
 
 You may just taste nice and hence your dog can't stop licking you. Your dog may also be licking the salt on your skin or even food particles you may have. Dogs also use their tongue to get a feel of objects in the same way that you use your hands. For dogs, licking could just be like touching.
 
@@ -31,7 +31,7 @@ Licking gives your dog a pleasure. It releases endorphins that give your dog a f
 
 ## Be firm in saying No (Reinforcement)
 
-Left to its own devices, your pet can end up running every aspect of your home in your life. Discipline s key in getting your dog to fall in line. This becomes necessary when the habit becomes bothersome to you. You and your dog should have ways of communicating. Telling him or her no, is important. 
+Left to its own devices, your pet can end up running every aspect of your home in your life. Discipline s key in getting your dog to fall in line. This becomes necessary when the habit becomes bothersome to you. You and your dog should have ways of communicating. Telling him or her no, is important.
 
 Your dog will respond to you when you keep to a certain way of communication. Repetition is key. It is important that you say no to the licking when it happens, and that you let your dog know that you do not want him or her to do that. Reinforce your no when it happens. If you have already used other ways to tell your dog not to lick you, such as leaving the room when it happens, you now need to make sure that your "no" is firm and well understood.
 
@@ -41,4 +41,4 @@ There are various ways that you can stop your pet from licking you. This include
 
 Once you have checked all the boxes and you are sure that it is unnecessary and you want to get the habit to stop, you can try to offer alternatives and redirect your dog's attention. Use something you know will always capture his or her attention. Once you have identified this action or object, you can use it to grab the dog's attention and then offer a reward for all positive actions. Make sure that your dog knows what you are encouraging and what you are not. This is easily enforced through rewards.
 
-Once you have the response that your dog needs, begin to pull back on the rewards and offer verbal praise instead. One of the most important things when redirecting your dog's attention is to know when to use it and when not to use it. You want it to be a way to discipline your dog and not just get your dog's attention. There is a fine line between the two. Once you have achieved this, the redirection will work for you and your pet.
+Once you have the response that your dog needs, begin to pull back on the rewards, and offer verbal praise instead. One of the most important things when redirecting your dog's attention is to know when to use it and when not to use it. You want it to be a way to discipline your dog and not just get your dog's attention. There is a fine line between the two. Once you have achieved this, the redirection will work for you and your pet.
