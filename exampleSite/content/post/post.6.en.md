@@ -9,8 +9,6 @@ title = "German Shepherd vs Belgian Malinois"
 +++
 A comparison of the Belgian Malon and the German Shepherd.
 
-![German Shepherd vs Belgian Malinois](https://savets.org/img/schafer-dog-4074699_1280.jpg)
-
 Lifespan German shepherds live 9 to 13 years where as the Belgian Malinois walked 12 to 14 years 1. goes to Malon why 1204 Malon walked. General health. Bulls breeds are usually very healthy and are not prone to major health problems points for both 214 Malon was affectionate with family the Belgian Malinois laws may have a strong working dog background but he craves companionship and family time above everything else also the German shepherd is very affectionate with their family points for both 3.
 
 Or mail in lost intelligence German shepherds are known for their intelligence and with good reason they’re considered the third smartest breed of dog also the mailing what is very intelligent and classified very close with the German shepherd points for both for for mail in one. Friendly malam ones are good with children when properly introduced or please with them however melon ones can also be protected territorial possessive and jealous whereas the German shepherd dog is very child friendly 1.for German shepherd for.
