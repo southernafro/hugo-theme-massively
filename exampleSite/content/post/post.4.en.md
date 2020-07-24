@@ -1,5 +1,5 @@
 +++
-date = 2020-07-31T00:00:00Z
+date = 2020-07-24T00:00:00Z
 description = "The amount that you feed your Labrador puppy depends on how old he or she is. It also depends on what you will be putting on the plate. Your puppy's development is highly dependent on how well you feed."
 disableComments = true
 image = "/uploads/puppy1.jpg"
