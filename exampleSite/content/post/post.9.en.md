@@ -2,7 +2,7 @@
 date = 2019-08-15T00:00:00Z
 description = " Dogs, just like people have health needs and these escalate towards the time when they have to give birth. You must know your options so you can help your dog through labor."
 disqus_identifier = "9"
-image = "images/largedogpuppy.jpg"
+image = "largedogpuppy.jpg"
 slug = "What to do when your dog is giving birth"
 title = "What to do when your dog is giving birth"
 
@@ -25,7 +25,7 @@ Other signs also include the most obvious which is a bigger belly As the puppies
 
 Your dog going into labor is an event you need to be prepared for. You will need to be able to tell that your dog is going into labor if you want to effectively help her. Speaking to your vet about what to expect can help you brace yourself for the big happy event.
 
-In the last weeks of pregnancy, you may notice your dog shred and collect soft materials for her litter to sleep on. She's creating a soft comfortable bed to welcome her little ones into the world. Another sign that she may be going into labor, is a drop in her body temperature. It will take about twelve to twenty-four hours for labor to begin. 
+In the last weeks of pregnancy, you may notice your dog shred and collect soft materials for her litter to sleep on. She's creating a soft comfortable bed to welcome her little ones into the world. Another sign that she may be going into labor, is a drop in her body temperature. It will take about twelve to twenty-four hours for labor to begin.
 
 You may also notice her being restless at night and shuffling in her blankets, almost as if she is failing to get comfortable, labor is not far off after this. If you've already made a nest for her, she may move it. Allow her to do this. She is simply doing this to be more comfortable.
 
@@ -43,6 +43,6 @@ When wiping down the puppies, use iodine so that you can prevent any infections 
 
 ## How long does it take a dog to give birth?
 
-A dog can take up to 12 hours to give birth. Labor for a dog is in three stages. The first being pre-whelping where you begin to see the signs of the onset of labor. This then progresses into the delivery of the puppies. After every thirty minutes or so, a puppy is born. At this stage, the mother will need to push about two or three times for the puppy to be born. 
+A dog can take up to 12 hours to give birth. Labor for a dog is in three stages. The first being pre-whelping where you begin to see the signs of the onset of labor. This then progresses into the delivery of the puppies. After every thirty minutes or so, a puppy is born. At this stage, the mother will need to push about two or three times for the puppy to be born.
 
 The mother will normally break the amniotic sac herself and simultaneously clean the puppies but in the event, this doesn't happen, you need to lend a hand. Once the puppies are born, you need to make sure that there is no remaining placenta in the mother's belly. The total amount of whelping time is usually between 6 and twelve hours.
