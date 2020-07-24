@@ -2,12 +2,16 @@
 date = 2019-04-11T00:00:00Z
 description = " If you are thinking about getting a dog, you are probably looking for all the information concerning the breed you want to buy. You must know what you are dealing with."
 disableComments = true
-image = "images/puppy1.jpg"
+image = "/uploads/labradorpuppy2.jpg"
 slug = "How Big Do Labrador Retrievers get"
 title = "How Big Do Labrador Retrievers get"
 
 +++
-Labrador retrievers differ in size according to gender. Females can weigh up to 70 pounds whilst male retrievers can weigh up to 80 pounds. If you are thinking about getting a dog, you are probably looking for all the information concerning the breed you want to buy. You must know what you are dealing with. The size of the dog can determine if you can take care of it or not. In this article, we take a look at all you need to know about golden retrievers so you can better prepare to take care of it.
+Labrador retrievers differ in size according to gender. Females can weigh up to 70 pounds whilst male retrievers can weigh up to 80 pounds. If you are thinking about getting a dog, you are probably looking for all the information concerning the breed you want to buy. 
+
+![](/uploads/labradorpuppy2.jpg)
+
+You must know what you are dealing with. The size of the dog can determine if you can take care of it or not. In this article, we take a look at all you need to know about golden retrievers so you can better prepare to take care of it.
 
 ## How Does Spaying or Neutering Affect them
 
