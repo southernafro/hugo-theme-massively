@@ -2,14 +2,12 @@
 date = 2019-04-14T00:00:00Z
 description = "Considering Getting a Labrador Retriever? Either way, here is what you can look forward to in life with one."
 disableComments = true
-image = ""
+image = "/uploads/silverlab.jpg"
 slug = "Labrador Retriever Review"
 title = "Labrador Retriever Review"
 
 +++
 Considering Getting a Labrador Retriever? Either way, here is what you can look forward to in life with one.
-
-![Labrador Retriever Review](https://pixabay.com/get/53e8d5474c54b108feda8460825668204022dfe05450704e7d2f7ed1/dog-580466_1920.jpg)
 
 Today it’s going to be reviewing the Labrador retriever. So a Labrador retriever originates from Canada and much like the Canadians they’re very polite sometimes too polite in very hardy breed originally the dog which used to retrieve fishing equipment and also for hunting such docks in birds this still use a lot today for those reasons not so much for the fishing but much more for duck hunting they’re great working dog in by 5 the most popular companion dogs in America they come in 4 different varieties they can come in yellow likings idea they can come in black chocolate silver in white there is no real difference between a chocolate lab in a yellow lab I’ve heard people say that yellow lab to crazy in the truck it’s not true there either they allow the not they’re all the same a lot of people see a dog like Kingsley and say I like his big blocky head I like his temperament and they go out and they just buy the first lap that they see in the newspapers there’s a lot more to it than that guys they can come in many different varieties they don’t all look the same some a tall slender some have a long ways now some of the smaller had some have a bigger had it all depends on the breeder you want to do heavy amount of research with the breeders to make sure that you’re getting what you want okay now it’s time for the lab review all right now give it a rating system now these are all my opinions I love all dos so we’ll have higher school at some level low schools it’s all my preference and I’m just telling you what in my experience working with these dogs what you guys can expect to.
 
