@@ -7,8 +7,6 @@
   HUGO_THEME = "repo"
  [[plugins]]
   package = "netlify-plugin-image-optim"
- [[plugins]]
-  package = "netlify-plugin-image-optim"
 [[plugins]]
 package = "netlify-plugin-subfont"
 [build]
@@ -40,3 +38,9 @@ package = "netlify-plugin-subfont"
       # ignore = ["/ignore-this-file.html"] # don't index this file
       # generatedFunctionName = search # change the name of generated folder in case of conflicts, use `null` to turn off
       # publishDirJSONFileName = searchIndex # also use null to turn off
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
