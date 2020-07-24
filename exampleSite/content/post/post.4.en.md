@@ -2,12 +2,16 @@
 date = 2019-04-11T00:00:00Z
 description = "The amount that you feed your Labrador puppy depends on how old he or she is. It also depends on what you will be putting on the plate. Your puppy's development is highly dependent on how well you feed."
 disableComments = true
-image = "images/labradorpuppy2.jpg"
+image = "/uploads/puppy1.jpg"
 slug = "How much to feed lab puppies"
 title = "How much to feed lab puppies"
 
 +++
-Labrador puppy up to 2months old needs to eat 4times a day, with each meal weighing up to 55 grams. The amount that you feed your Labrador puppy depends on how old he or she is. It also depends on what you will be putting on the plate. Your puppy's development is highly dependent on how well you feed. The younger the puppy, the more times a day you need to feed the puppy. A labrador feeding chart can help you with the right quantities. In this article, we take a look at the guidelines for feeding your puppy and avoid overfeeding.
+Labrador puppy up to 2months old needs to eat 4 times a day, with each meal weighing up to 55 grams. The amount that you feed your Labrador puppy depends on how old he or she is. It also depends on what you will be putting on the plate. 
+
+![](/uploads/puppy1.jpg)
+
+Your puppy's development is highly dependent on how well you feed. The younger the puppy, the more times a day you need to feed the puppy. A labrador feeding chart can help you with the right quantities. In this article, we take a look at the guidelines for feeding your puppy and avoid overfeeding.
 
 ### What to Feed Your Labrador Puppy
 
@@ -21,7 +25,7 @@ Salmonella and other food preparation related diseases are not peculiar to peopl
 
 ## 2-4 Week Old Lab Puppy Guide
 
-Your Labrador puppy will develop in stages. At two weeks old, labrador puppies' ears begin to open up. Their eyes are fully open and they will start attempting to stand up between two and four weeks. At three weeks they seem to get a boost of energy and stamina as well as unexpected strength, especially when you compare with the previous week. 
+Your Labrador puppy will develop in stages. At two weeks old, labrador puppies' ears begin to open up. Their eyes are fully open and they will start attempting to stand up between two and four weeks. At three weeks they seem to get a boost of energy and stamina as well as unexpected strength, especially when you compare with the previous week.
 
 You begin to see their identities peaking through. If they are still in their litter, it is at this stage that you can now distinguish them from their brothers and sisters. The teeth also begin to make an appearance at this stage. You will also start to see them playing more and even growling. By the time they reach the fourth week, puppies can now control their bowels a little more. At this stage, they need to be eating four times a day, and each meal should be between 50 and 50grams in weight.
 
@@ -35,9 +39,9 @@ By the time your puppies are 8 weeks old, they are now quite a force to be recko
 
 ## Human Foods to avoid
 
-Since we love our pets and want to share everything we eat with them, not all human foods are suitable for dogs. Some human delicacies are dangerous if ingested by dogs. Alcoholic drinks can cause a dog to vomit, have difficulty breathing, abnormal blood acidity, central nervous depression, coma and sometimes death.
+Since we love our pets and want to share everything we eat with them, not all human foods are suitable for dogs. Some human delicacies are dangerous if ingested by dogs. Alcoholic drinks can cause a dog to vomit, have difficulty breathing, abnormal blood acidity, central nervous depression, coma, and sometimes death.
 
-Another human food you need to avoid is chocolate and caffeine. Any food that is from cacao seeds, contains methylxanthines. These foods can also cause vomiting, diarrhea, panting, excessive thirst and urination, hyperactivity, abnormal heart rhythm, tremors, seizures and in some cases death. The stronger the chocolate the more dangerous it is to your dog. Baking chocolate is the most lethal.
+Another human food you need to avoid is chocolate and caffeine. Any food that is from cacao seeds, contains methylxanthines. These foods can also cause vomiting, diarrhea, panting, excessive thirst and urination, hyperactivity, abnormal heart rhythm, tremors, seizures, and in some cases death. The stronger the chocolate the more dangerous it is to your dog. Baking chocolate is the most lethal.
 
 Milk and other dairy products can also be harmful to your pet since dogs have little to no lactase which is the enzyme that breaks down lactose in milk products. Having a go at dairy products can cause your pet to have an upset stomach
 
@@ -45,8 +49,8 @@ Nuts and almonds can potentially cause pancreatitis in pets. Meanwhile, raw meat
 
 ## Labrador Obesity Stats
 
-Overfeeding your labrador is not a good idea. It increases the rate at which the puppy grows and this is bad for it. Obesity in your labrador puppy leads to bigger and less dense bones which will weigh down on the puppy and may even cause skeletal deformities. Labradors, in particular, are at risk if they grow abnormally fast. Keeping them in check, however, is not easy. 
+Overfeeding your labrador is not a good idea. It increases the rate at which the puppy grows and this is bad for it. Obesity in your labrador puppy leads to bigger and less dense bones which will weigh down on the puppy and may even cause skeletal deformities. Labradors, in particular, are at risk if they grow abnormally fast. Keeping them in check, however, is not easy.
 
-Labradors will eat almost anything they come across, which means that you will need to be extra diligent in watching your dog like a hawk, making sure that his or her diet is in the right amounts. Some estimate that over 60percent of all labradors are obese. Two in three dogs in first world countries are obese. 
+Labradors will eat almost anything they come across, which means that you will need to be extra diligent in watching your dog like a hawk, making sure that his or her diet is in the right amounts. Some estimate that over 60percent of all labradors are obese. Two in three dogs in first world countries are obese.
 
 A case study has shown that most obese labradors were missing a gene called POMC which is also present in people and helps regulate appetite. Regardless of why your labrador is overeating, you can still help it by regulating amounts and meal times.
