@@ -1,7 +1,6 @@
 +++
 date = 2020-07-23T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/dog-188273_640.jpg"
 slug = "my dog trouble breathing through nose"
 title = "my dog is having trouble breathing through his nose"
