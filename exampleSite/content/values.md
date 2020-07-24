@@ -28,7 +28,9 @@ There are simpler solutions to problems that I would have always approached in a
 
 ### Better You, Better Dog
 
-Finally, I know this is a site about dogs, but we understand that you too matter. In many ways, I have been able to find a correlation between the mental and emotional wellbeing of a dog with that of its owner. If you are hyped up and angry, your dog will be the same. The milder ones among us tend to also raise mild-mannered dogs. The active ones have dogs that are equally active. Our content will not only cater to the wellbeing of your dog, but to yours as well. We will share world-class information on how you can improve your wellbeing as well as your dog’s.
+Finally, I know this is a site about dogs, but we understand that you too matter. In many ways, I have been able to find a correlation between the mental and emotional wellbeing of a dog with that of its owner. If you are hyped up and angry, your dog will be the same. 
+
+The milder ones among us tend to also raise mild-mannered dogs. The active ones have dogs that are equally active. Our content will not only cater to the wellbeing of your dog, but to yours as well. We will share world-class information on how you can improve your wellbeing as well as your dog’s.
 
 ### Happiness for all
 
