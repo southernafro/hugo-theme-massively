@@ -12,7 +12,7 @@ Our experiences, though seemingly unique tend to be interwoven. As such it is im
 
 We are committed to continuing to search for new information and providing it to you in a way that is easy to digest. The richer your content is the easier it gets to engage an audience. As scientific research makes strides, we aim to follow in its footsteps to ensure that this knowledge is made available to you in a timely manner.
 
-![](/uploads/friends-3042751_640.jpg)
+![Dog and woman watching sunset](/uploads/friends-3042751_640.jpg)
 
 ### We Know
 
