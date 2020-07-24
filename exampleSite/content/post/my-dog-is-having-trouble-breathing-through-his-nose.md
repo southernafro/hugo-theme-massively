@@ -14,7 +14,7 @@ It was hard for me to decipher if this was any different from the way she usuall
 
 ## What are the signs of respiratory distress in a dog?
 
-You must know what to look out for to keep your dog healthy. Being observant can help you spot potentially problematic issues early on. Certain signs show that your dog may be experiencing respiratory distress. Lik my Fifi, your dog may be drooling a little more than usual and this may be accompanied by choking.
+You must know what to look out for to keep your dog healthy. Being observant can help you spot potentially problematic issues early on. Certain signs show that your dog may be experiencing respiratory distress. Like my Fifi, your dog may be drooling a little more than usual and this may be accompanied by choking.
 
 Dogs pant as a way to regulate their body temperature after exercising. If you see your dog panting incessantly without having exercised at all, then you may be dealing with respiratory distress.
 
