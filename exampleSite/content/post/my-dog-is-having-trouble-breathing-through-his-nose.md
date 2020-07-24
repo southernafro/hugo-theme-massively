@@ -1,7 +1,6 @@
 +++
 date = 2020-07-23T23:00:00Z
 description = "You must know what to look out for to keep your dog healthy. Being observant can help you spot potentially problematic issues early on. Certain signs show that your dog may be experiencing respiratory distress. Like my Fifi, your dog may be drooling a little more than usual and this may be accompanied by choking."
-draft = true
 image = "/uploads/dog-188273_640.jpg"
 slug = "my dog trouble breathing through nose"
 title = "my dog is having trouble breathing through his nose"
