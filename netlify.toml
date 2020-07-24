@@ -20,7 +20,7 @@ package = "netlify-plugin-subfont"
 	[plugins.inputs]
 
 	# The base url of your site (optional, default = main URL set in Netlify)
-	baseUrl = "https://example.com"
+	baseUrl = "https://savets.org"
 
 	# Path to the sitemap URL (optional, default = /sitemap.xml)
 	sitemapPath = "/sitemap.xml"
@@ -31,3 +31,12 @@ package = "netlify-plugin-subfont"
 		"bing",
 		"yandex"
 	]
+[[build]]
+  functions = functions # must specify a functions folder for this to work
+[[plugins]]
+  package = netlify-plugin-search-index
+    # all inputs is optional, we just show you the defaults below
+    # [plugins.inputs]
+      # ignore = ["/ignore-this-file.html"] # don't index this file
+      # generatedFunctionName = search # change the name of generated folder in case of conflicts, use `null` to turn off
+      # publishDirJSONFileName = searchIndex # also use null to turn off
