@@ -19,4 +19,5 @@ fields:
   label: description
 pages:
 - exampleSite/content/post/dog-scratching-ears-till-bleeding.md
+- exampleSite/content/post/my-dog-is-having-trouble-breathing-through-his-nose.md
 - exampleSite/content/values.md
