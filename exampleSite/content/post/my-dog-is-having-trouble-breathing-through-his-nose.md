@@ -8,7 +8,7 @@ title = "my dog is having trouble breathing through his nose"
 +++
 I've had my Jack Russel, Fifi, for 2years now and she's always been very active and so would always be breathing heavily from running around getting up to. But I started to notice that she was breathing heavier than normal and it seemed like she was not breathing through her nose.
 
-![](/uploads/dog-188273_640.jpg)
+![dog's nostril](/uploads/dog-188273_640.jpg)
 
 It was hard for me to decipher if this was any different from the way she usually pants but this along with drooling more than usual and making weird noises and also not wanting to play as much worried me. A quick trip to the vet saved her
 
