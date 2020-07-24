@@ -1,7 +1,6 @@
 +++
 date = 2020-07-23T23:00:00Z
 description = "The first time I heard my puppy cough, it frightened me. I wasn't sure if the noise I had just heard was coming from my sweet 3-week old bundle of cuddles. But it was alarming and made me look for my vet's number immediately. It was the first time I had heard her cough, but it was unnerving for me. "
-draft = true
 image = ""
 slug = "How to stop a dog from coughing"
 title = "How to stop a dog from coughing"
