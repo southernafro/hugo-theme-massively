@@ -5,28 +5,3 @@
 [build.environment]
   HUGO_VERSION = "0.54.0"
   HUGO_THEME = "repo"
- [[plugins]]
-  package = "netlify-plugin-image-optim"
-[[plugins]]
-package = "netlify-plugin-subfont"
-[build]
-  publish = "public"
-
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-
-	[plugins.inputs]
-	baseUrl = "https://savets.org"
-	sitemapPath = "/sitemap.xml"
-	providers = [
-		"google",
-		"bing",
-		"yandex"]
-[[build]]
-[[plugins]]
-  package = netlify-plugin-search-index
-[[plugins]]
-package = "@netlify/plugin-sitemap"
-  [plugins.inputs]
-  buildDir = "public"
-[[build]]
