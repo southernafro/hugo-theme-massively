@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "The Savets"
-baseURL = "https://savetsmassively.netlify.app/"
+baseURL = "https://savets.org/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
