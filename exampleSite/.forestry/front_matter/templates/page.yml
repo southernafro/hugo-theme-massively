@@ -18,6 +18,7 @@ fields:
   name: description
   label: description
 pages:
+- exampleSite/content/post/chocolate-labrador-life-expectancy.md
 - exampleSite/content/post/dog-scratching-ears-till-bleeding.md
 - exampleSite/content/post/how-do-you-know-if-your-dog-has-a-tick.md
 - exampleSite/content/post/how-to-stop-a-dog-from-coughing.md
