@@ -1,7 +1,6 @@
 +++
 date = 2020-08-14T18:00:00Z
 description = "When it comes to retrievers, like every other dog they have a life expectancy of up to 12/13 years. However, Chocolate labradors in specific have a shorter life span if 9-11 years. The life expectancy of any organism is dependent on many factors inclusive of the health, genetics and lifestyle."
-draft = true
 image = "/uploads/dog-580466_640.jpg"
 slug = ""
 title = "Chocolate Labrador Life Expectancy"
