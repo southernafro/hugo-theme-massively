@@ -1,8 +1,7 @@
 +++
 date = 2020-08-20T23:00:00Z
 description = "If you have a dog and you are wondering how to tell they have been abused then this post may just be for you. These are things that we rarely like to think about but just knowing if your dog has been abused in the past will help you understand it more."
-draft = true
-image = ""
+image = "/uploads/dog-2453179_640.jpg"
 slug = "How to tell if a dog has been abused"
 title = "How to tell if a dog has been abused"
 
