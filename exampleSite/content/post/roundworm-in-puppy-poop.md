@@ -1,8 +1,7 @@
 +++
 date = 2020-08-25T23:00:00Z
-description = ""
-draft = true
-image = ""
+description = "Roundworms are parasites that live freely in the intestine, feeding off of partially digested intestinal contents. Their name is derived from their tubular or ‘round’ shape. Toxocara canis and Toxascaris leonina are two important species of roundworms in dogs."
+image = "/uploads/warning-5459570_640.jpg"
 slug = "Roundworm in puppy poop"
 title = "Roundworm in puppy poop"
 
