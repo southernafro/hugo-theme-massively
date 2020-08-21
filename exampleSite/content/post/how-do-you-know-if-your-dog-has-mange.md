@@ -1,7 +1,6 @@
 +++
 date = 2020-08-26T23:00:00Z
 description = "Mange refers to skin diseases caused by mites. The term is derived from a French word mangeue, which translates into to eat or itch. Mange, caused by different kinds of mites, affects many kinds of animals, including humans."
-draft = true
 image = "https://en.wikipedia.org/wiki/Mange#/media/File:Dogmangeeee.jpg"
 slug = "How do you know if your dog has mange"
 title = "How do you know if your dog has mange"
