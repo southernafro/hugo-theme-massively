@@ -1,5 +1,5 @@
 +++
-date = 2020-08-18T23:00:00Z
+date = 2020-08-19T01:00:00Z
 description = "Well, the Labrador retriever matures moderately fast. The maturation rate of these puppies falls in the middle of the road. Labrador retrievers typically reach adult heights between their 12th and 18th months. This means they are capable of reaching adult height from six to 12 months but possibly still filling out up to 2 years of age."
 image = "/uploads/dog-580466_640.jpg"
 slug = "When are labs fully grown"
