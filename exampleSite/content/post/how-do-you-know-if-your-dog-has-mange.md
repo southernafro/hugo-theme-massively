@@ -50,7 +50,7 @@ Treatments for both forms of mange include several strategies:
 * Mite eradication and control: Topical applications of compounds to kill the mites, such as selamectin and imidacloprid-moxidectin formulations, over a period of several weeks have been shown to be effective.
 * Oral treatments are also sometimes used.
 
-<iframe width="560" height="315" src="[t4MBVzkYc64](https://www.youtube.com/embed/t4MBVzkYc64 "t4MBVzkYc64")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[t4MBVzkYc64]( https://www.youtube.com/embed/t4MBVzkYc64 "t4MBVzkYc64")
 
 ## Conclusion
 
