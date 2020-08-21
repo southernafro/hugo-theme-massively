@@ -2,7 +2,7 @@
 date = 2020-08-20T23:00:00Z
 description = "If you are thinking of getting yourself a Labrador retriever there are so many things to consider before you even think of it. Firstly you need to be aware of the amount that you will have to spend on getting one, as well as the age you want to get."
 image = "/uploads/silverlab.jpg"
-slug = ""
+slug = "How much does a Labrador Retriever Cost"
 title = "How much does a Labrador Retriever Cost"
 
 +++
