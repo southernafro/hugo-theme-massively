@@ -1,7 +1,6 @@
 +++
 date = 2020-08-28T23:00:00Z
 description = "One of the most annoying things about having a pet is having to see some pet hair every time you want to do laundry. You know every time your dog is cuddling with you, you remove some pet hair so why is it, when you are doing laundry you see a whole lot of pet hair."
-draft = true
 image = "/uploads/shar-pei-1663278_640.jpg"
 slug = "Why does my dog sleep on my clothes"
 title = "Why does my dog sleep on my clothes?"
