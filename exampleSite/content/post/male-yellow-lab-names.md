@@ -32,7 +32,7 @@ This one is self-explanatory. Imagine if you have a dog named Sit, what will hap
 
 The sounds within the name you choose will influence your dog as well. Christopher Pachel, a veterinary behaviourist, says that short and choppy gets them to respond quickly, while long, slow, soothing tones do not. An example is that Huck might be preferable to Huckleberry Finn, at least for your dog.
 
-## Names for your dog
+## Names for your Male Yellow Lab
 
 The following are potential names for your dog:
 
