@@ -1,8 +1,7 @@
 +++
 date = 2020-08-24T23:00:00Z
 description = "When dealing with a pregnant dog be sure to take your dog to the vet for a checkup. Schedule an appointment with the vet, so she can check on your pregnant dog. The vet will confirm the pregnancy and check for any complications."
-draft = true
-image = ""
+image = "/uploads/puppies-4231472_640.jpg"
 slug = "What to do after your dog has puppies"
 title = "What to do after your dog has puppies"
 
