@@ -58,6 +58,6 @@ English Labs are typically more laid back and less excitable than their American
 
 ## Final Thoughts
 
-In conclusion, all Labradors are great dogs. Some were just bred for a different reason than the other which explains the slight differences in their appearances and size and well and energy levels. However don’t be discouraged both types of this breed are great family dogs, you don’t have to worry about anything. They can adapt to the environment that they would have been set in.
+In conclusion, all Labradors are great dogs. Some were just bred for a different reason than the other which explains the slight differences in their appearances and size and well and energy levels. However, don’t be discouraged both types of this breed are great family dogs, you don’t have to worry about anything. They can adapt to the environment that they would have been set in.
 
 Both sets enjoy the same activities. They both love taking walks, they are both intelligent and they are both very loving. So by now, I am certain you can now differentiate between the two? Now you won’t have to be confused by either.
