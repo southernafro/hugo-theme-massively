@@ -15,9 +15,11 @@ A good dog house should keep your dog dry and warm. The weather elements should 
 
 Igloo dog houses come fitted with insulation that can keep your dog warm and cool. They regulate temperature for your pet and maintain optimum temperature. If you feel the dog house needs more insulation, you can always add it.
 
+    <center><a href="https://www.amazon.com/Petmate-Indigo-All-Weather-Protection-Available/dp/B0002DI4I0/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hairmousse05-20&linkId=0c47c36ba011252bdcbf2eb55e038938&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002DI4I0&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hairmousse05-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hairmousse05-20&language=en_US&l=li3&o=1&a=B0002DI4I0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+
 Not all manufacturers create the same type of doghouse, even though they may all be igloo dog houses. One of the best brands in this game is the Petmate indigo dog house.
 
-[https://www.amazon.com/Petmate-Indigo-All-Weather-Protection-Available/dp/B0002DI4I0](https://www.amazon.com/Petmate-Indigo-All-Weather-Protection-Available/dp/B0002DI4I0 "https://www.amazon.com/Petmate-Indigo-All-Weather-Protection-Available/dp/B0002DI4I0")
+[CHECK THE PRICE](https://www.amazon.com/Petmate-Indigo-All-Weather-Protection-Available/dp/B0002DI4I0)
 
 ## What should I consider when getting my dog an igloo doghouse?
 
