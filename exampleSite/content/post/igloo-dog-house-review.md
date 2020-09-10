@@ -1,7 +1,6 @@
 +++
 date = 2020-09-09T23:00:00Z
 description = "Are you looking for the best igloo dog house on the market? These are some of the most popular outdoor dog houses. They are spacious, and comfortable for the dog and they look good too. The designs are unique and most of them are also well insulated."
-draft = true
 image = ""
 slug = ""
 title = "Igloo Dog House Review"
