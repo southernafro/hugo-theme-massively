@@ -8,7 +8,7 @@ title = "How to tell if your dog has cataracts"
 +++
 Are you wondering how to tell if your dog has cataracts? Our pets are our companions and we take care of their health in the same way we do our own. Looking out for potentially harmful conditions can save both you and your pet a lot of pain and also potential medical bills.
 
-![](/uploads/eyes-712125_640.jpg)
+![Dog's eyes](/uploads/eyes-712125_640.jpg)
 
 ## What are cataracts?
 
