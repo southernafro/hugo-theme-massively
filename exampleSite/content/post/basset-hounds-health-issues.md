@@ -9,7 +9,7 @@ title = "Basset hounds health issues"
 +++
 Are you doing some research about which health issues to expect with a basset hound? You may be thinking of getting a new dog or perhaps your dog sitting for someone and want to know what to expect. 
 
-![](/uploads/dog-2409850_640.jpg)
+![White Basset hound staring at camera](/uploads/dog-2409850_640.jpg)
 
 Either way, basset hounds health issues can be unique to them, because disease and genetic makeup are closely tied. Let's face it, there's nothing sadder than a sick puppy, so you want to avoid this at all costs.
 
