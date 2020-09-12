@@ -1,7 +1,6 @@
 +++
 date = 2020-09-12T23:00:00Z
-description = ""
-draft = true
+description = "Are you doing some research about which health issues to expect with a basset hound? You may be thinking of getting a new dog or perhaps your dog sitting for someone and want to know what to expect. "
 image = ""
 slug = ""
 title = "Basset hounds health issues"
