@@ -7,7 +7,11 @@ slug = ""
 title = "Basset hounds health issues"
 
 +++
-Are you doing some research about which health issues to expect with a basset hound? You may be thinking of getting a new dog or perhaps your dog sitting for someone and want to know what to expect. Either way, basset hounds health issues can be unique to them, because disease and genetic makeup are closely tied. Let's face it, there's nothing sadder than a sick puppy, so you want to avoid this at all costs.
+Are you doing some research about which health issues to expect with a basset hound? You may be thinking of getting a new dog or perhaps your dog sitting for someone and want to know what to expect. 
+
+![](/uploads/dog-2409850_640.jpg)
+
+Either way, basset hounds health issues can be unique to them, because disease and genetic makeup are closely tied. Let's face it, there's nothing sadder than a sick puppy, so you want to avoid this at all costs.
 
 Let's take a look at what you need to expect in terms of your bassinet hounds health.
 
@@ -28,6 +32,8 @@ It may seem cute when your basset hound is chubby and waddles across your living
 Just like all dogs, basset hounds are susceptible to infections from bacteria and viruses. You can avoid your basset hound from getting parvo or rabies or other infections common with dogs, by making sure that you stay on top of his or her vaccinations.
 
 ### Eye problems
+
+![Basset Hound running](/uploads/dog-2702132_640.jpg)
 
 Basset hounds can inherit eye issues. It is a common genetic issue with basset hounds. Some of these can cause blindness. They can be affected by glaucoma and cataracts just like humans.
 
