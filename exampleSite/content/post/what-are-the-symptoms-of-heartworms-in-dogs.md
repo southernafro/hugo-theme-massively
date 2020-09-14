@@ -1,7 +1,6 @@
 +++
 date = 2020-09-13T23:00:00Z
 description = "Heartworms are a serious disease that you don’t want your dog to be dealing with. But what are the symptoms of heartworms in dogs?"
-draft = true
 image = ""
 slug = ""
 title = "What are the symptoms of heartworms in dogs"
