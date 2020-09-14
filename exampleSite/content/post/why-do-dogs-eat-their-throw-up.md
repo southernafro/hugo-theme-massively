@@ -1,7 +1,6 @@
 +++
-date = ""
-description = ""
-draft = true
+date = 2020-09-12T23:00:00Z
+description = "I’ve always wondered why dogs eat their throw up. Before I rescued my Sally, I’d never had the honor or adventure of living with a dog or seeing their daily habits such as eating their throw up, so it was a thought that had never crossed my mind. "
 image = ""
 slug = ""
 title = "Why do dogs eat their throw up"
