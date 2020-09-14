@@ -1,7 +1,6 @@
 +++
 date = 2020-09-11T23:00:00Z
 description = "Thinking of getting a dog? Perhaps you are looking for a family dog that doesn’t shed. Looking for a new dog is not something you can do by simply ticking boxes, and picking"
-draft = true
 image = ""
 slug = ""
 title = "Best family dog that doesnt shed"
