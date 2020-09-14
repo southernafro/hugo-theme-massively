@@ -9,6 +9,8 @@ title = "What are the symptoms of heartworms in dogs"
 +++
 Your dog is your best friend. I can’t imagine not doing everything I can to keep my jack Russell, Maggie healthy. But as a new dog owner, you may not be sure what to look out for to ensure that your dog is healthy.
 
+![heartworms](/uploads/dog-4906580_640.jpg)
+
 Heartworms are a serious disease that you don’t want your dog to be dealing with. But what are the symptoms of heartworms in dogs? This is a pertinent question to ask if you think there’s even the slightest chance your dog may be sick. Let’s take a look at some of the red flags to avoid, and also what they entail.
 
 ### Symptoms
@@ -53,7 +55,9 @@ After this, ensure that your dog gets his or her medication at least once a year
 
 ### Can heartworms in dogs be cured?
 
-Yes, they can. Heartworm treatment is very specific and shouldn’t be winged. Once your dog has been diagnosed, it is advisable that you visit your veterinarian to get a step by step plan of treatment. Relying on what you read and home diagnosis is not the most advisable. Always seek medical opinion for the good health and sanity of you and your dog.
+Yes, they can. Heartworm treatment is very specific and shouldn’t be winged. Once your dog has been diagnosed, it is advisable that you visit your veterinarian to get a step by step plan of treatment. 
+
+Relying on what you read and home diagnosis is not the most advisable. Always seek medical opinion for the good health and sanity of you and your dog.
 
 ## Conclusion
 
