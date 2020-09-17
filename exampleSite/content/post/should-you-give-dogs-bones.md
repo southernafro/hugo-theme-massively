@@ -1,16 +1,16 @@
 +++
 date = ""
-description = ""
-draft = true
-image = ""
+description = "\"Some people think it's safe to give dogs large bones, like those from a ham or a roast,\" says Carmela Stamper, D.V.M., a veterinarian in the Center for Veterinary Medicine at the Food and Drug Administration. \"Bones are unsafe no matter what their size.\""
+image = "/uploads/puppy-1502565_640.jpg"
 slug = "should you give dogs bones"
 title = "Should you give dogs bones"
 
 +++
-
 **Dog owner advice: FDA issues warning about dog bones**
 
 **Giving your dog a bone is a dangerous practice and can cause serious injury to your pet, the U.S. Food and Drug Administration said in a consumer update.**
+
+![](/uploads/puppy-1502565_640.jpg)
 
 "Some people think it's safe to give dogs large bones, like those from a ham or a roast," says Carmela Stamper, D.V.M., a veterinarian in the Center for Veterinary Medicine at the Food and Drug Administration. "Bones are unsafe no matter what their size."
 
@@ -23,7 +23,7 @@ title = "Should you give dogs bones"
 * Bone gets stuck in windpipe. This may happen if your dog accidentally inhales a small enough piece of bone. This is an emergency because your dog will have trouble breathing. Get your pet to your veterinarian immediately!
 * Bone gets stuck in stomach. It went down just fine, but the bone may be too big to pass out of the stomach and into the intestines. Depending on the bone's size, your dog may need surgery or upper gastrointestinal endoscopy, a procedure in which your veterinarian uses a long tube with a built-in camera and grabbing tools to try to remove the stuck bone from the stomach.
 * Bone gets stuck in intestines and causes a blockage. It may be time for surgery.  
-   Constipation due to bone fragments. Your dog may have a hard time passing the bone fragments because they're very sharp and they scrape the inside of the large intestine or rectum as they move along. This causes severe pain and may require a visit to your veterinarian.
+  Constipation due to bone fragments. Your dog may have a hard time passing the bone fragments because they're very sharp and they scrape the inside of the large intestine or rectum as they move along. This causes severe pain and may require a visit to your veterinarian.
 * Severe bleeding from the rectum. This is very messy and can be dangerous. It's time for a trip to see your veterinarian.
 * Peritonitis. This nasty, difficult-to-treat bacterial infection of the abdomen is caused when bone fragments poke holes in your dog's stomach or intestines. Your dog needs an emergency visit to your veterinarian because peritonitis can kill your dog.
 
