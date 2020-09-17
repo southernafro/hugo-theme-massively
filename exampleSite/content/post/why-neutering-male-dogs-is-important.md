@@ -1,13 +1,14 @@
 +++
 date = 2015-04-08T23:00:00Z
 description = ""
-draft = true
-image = ""
+image = "/uploads/dog-606041_640.jpg"
 slug = "Why neutering Male dogs is important"
 title = "Why neutering Male dogs is important"
 
 +++
 Just as we can prevent serious disease in our female dogs by spaying. we can prevent serious disease in our male dogs by neutering. Male dogs are very prone to develop tumors around the anus, certain hernias. and prostate enlargement. Intact males are also at risk for prostate cancer and testicular cancer.
+
+![dog mating](/uploads/dog-606041_640.jpg)
 
 Perianal adenomas are small growths in the muscle around the anus. If not removed when small, they grow until they break through the skin, get infected, smell bad and cause a great deal of discomfort to the dog. While perianal adenomas initially are benign, some progress into highly malignant cancers.
 
