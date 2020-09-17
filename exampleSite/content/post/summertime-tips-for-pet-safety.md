@@ -1,14 +1,12 @@
 +++
-date = ""
-description = ""
+date = 2010-08-05T23:00:00Z
+description = "Summer temperatures might be great for tan lines and boating trips, but the excessive heat and increased outdoor activities could spell disaster for your pets."
 draft = true
 image = ""
 slug = ""
 title = "Summertime tips for pet safety"
 
 +++
-**Summertime tips for pet safety**
-
 By Raj Salwan
 
 Oakland Tribune columnist
