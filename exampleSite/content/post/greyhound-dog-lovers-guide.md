@@ -1,7 +1,6 @@
 +++
 date = ""
-description = ""
-draft = true
+description = "The greyhound's devotion to man is legendary. They seem grateful for their new homes and reward their owners with never-ending affection. Raised with their littermates where they competed for attention, greyhounds love becoming the center of your attention as pets and will reward your love and affection by returning it tenfold!"
 image = "/uploads/greyhound-5465950_640.jpg"
 slug = "Greyhound Health Guide for Dog Lovers"
 title = "Greyhound Health Guide for Dog Lovers"
