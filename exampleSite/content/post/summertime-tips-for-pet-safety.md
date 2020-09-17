@@ -17,7 +17,7 @@ Updated: 06/10/2010 02:05:56 AM PDT
 
 SUMMERTIME! Finally, your chance to relax and unwind.
 
-With your sunblock, sunglasses and a good book, you plan to enjoy the day at the pool. Suddenly, you remember your dog is in the yard unsupervised. Surely he will be OK for a couple hours.
+With your sunblock, sunglasses and a good book, you plan to enjoy the day at the pool. Suddenly, you remember your dog is in the yard unsupervised. Surely he will be OK for a couple of hours.
 
 Or will he?
 
@@ -25,11 +25,11 @@ Summer temperatures might be great for tan lines and boating trips, but the exce
 
 As the mercury rises, take just a few moments to ensure that your pets are safe and prevent an urgent trip to the animal ER.
 
-The most common heat-related problem for pets is heat stroke.
+The most common heat-related problem for pets is heatstroke.
 
-Also known as heat stress or hyperpyrexia, heat stroke is a real emergency for dogs. Even on moderately warm days, an excited dog might show a body temperature increase of 2 to 5 degrees Fahrenheit. Because dogs don't sweat like we do, they are unable to dissipate the excess heat, and heat stroke may soon follow.
+Also known as heat stress or hyperpyrexia, heatstroke is a real emergency for dogs. Even on moderately warm days, an excited dog might show a body temperature increase of 2 to 5 degrees Fahrenheit. Because dogs don't sweat as we do, they are unable to dissipate the excess heat, and heatstroke may soon follow.
 
-Any outdoor pet can overheat on a warm summer day, but short-faced breeds, such as pugs and bulldogs, are at a higher risk. In addition, every year thousands of pets succumb to heat stroke after being left in cars while their owners ran "just a few" errands.
+Any outdoor pet can overheat on a warm summer day, but short-faced breeds, such as pugs and bulldogs, are at a higher risk. In addition, every year thousands of pets succumb to heatstroke after being left in cars while their owners ran "just a few" errands.
 
 Many cities and states have made it a crime to leave your pet unattended in a vehicle. These are important laws because even on a 70-degree day, temperatures inside a car can soar to more than 110 degrees in less than one hour.
 
@@ -49,13 +49,13 @@ Normally calm pets may become distressed, destructive and even bite in an attemp
 
 The warm summer season also brings out many pests that will actively seek out your pets.
 
-Fleas and ticks are two examples, but some species of biting flies are very fond of dogs' ears. Repeated bites can cause a condition that can be serious and difficult to control known as "fly strike."
+Fleas and ticks are two examples, but some species of biting flies are very fond of dogs' ears. Repeated bites can cause a condition that can be serious and difficult to control known as "flystrike."
 
 It is possible to enjoy the summer with your pets by taking just a few precautions.
 
 First and foremost, always be aware of the weather forecast. Knowing the high temperature can help guide your plans for the day.
 
-Don't leave your pet unattended outside or plan heavy exercise on hot, humid days. If your pet is left outdoors, he must have access to adequate shade and fresh water.
+Don't leave your pet unattended outside or plan heavy exercise on hot, humid days. If your pet is left outdoors, he must have access to adequate shade and freshwater.
 
 When it's time to run errands, leave your pet at home. Even a few minutes in a hot car is enough to increase your pet's body temperature dramatically.
 
