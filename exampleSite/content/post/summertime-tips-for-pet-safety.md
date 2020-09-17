@@ -1,7 +1,6 @@
 +++
 date = 2010-08-05T23:00:00Z
 description = "Summer temperatures might be great for tan lines and boating trips, but the excessive heat and increased outdoor activities could spell disaster for your pets."
-draft = true
 image = "/uploads/dog-5488413_640.jpg"
 slug = "Summertime tips for pet safety"
 title = "Summertime tips for pet safety"
