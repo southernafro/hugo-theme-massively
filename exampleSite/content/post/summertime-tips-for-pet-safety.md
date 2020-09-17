@@ -6,14 +6,6 @@ slug = "Summertime tips for pet safety"
 title = "Summertime tips for pet safety"
 
 +++
-By Raj Salwan
-
-Oakland Tribune columnist
-
-Posted: 06/08/2010 12:00:00 AM PDT
-
-Updated: 06/09/2020 02:05:56 AM PDT
-
 SUMMERTIME! Finally, your chance to relax and unwind.
 
 With your sunblock, sunglasses and a good book, you plan to enjoy the day at the pool. Suddenly, you remember your dog is in the yard unsupervised. Surely he will be OK for a couple of hours.
@@ -71,3 +63,11 @@ Most national parks allow pets, but rules vary by park and of course your pets m
 Summertime should be a time for relaxation and fun. Don't let a pet emergency spoil your good time.
 
 Raj Salwan, a second-generation veterinarian, has been involved in veterinary medicine for more than 21 years.
+
+By Raj Salwan
+
+Oakland Tribune columnist
+
+Posted: 06/08/2010 12:00:00 AM PDT
+
+Updated: 06/09/2020 02:05:56 AM PDT
