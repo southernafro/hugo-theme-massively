@@ -2,8 +2,8 @@
 date = 2010-08-05T23:00:00Z
 description = "Summer temperatures might be great for tan lines and boating trips, but the excessive heat and increased outdoor activities could spell disaster for your pets."
 draft = true
-image = ""
-slug = ""
+image = "/uploads/dog-5488413_640.jpg"
+slug = "Summertime tips for pet safety"
 title = "Summertime tips for pet safety"
 
 +++
@@ -13,11 +13,13 @@ Oakland Tribune columnist
 
 Posted: 06/08/2010 12:00:00 AM PDT
 
-Updated: 06/10/2010 02:05:56 AM PDT
+Updated: 06/09/2020 02:05:56 AM PDT
 
 SUMMERTIME! Finally, your chance to relax and unwind.
 
 With your sunblock, sunglasses and a good book, you plan to enjoy the day at the pool. Suddenly, you remember your dog is in the yard unsupervised. Surely he will be OK for a couple of hours.
+
+![](/uploads/dog-5488413_640.jpg)
 
 Or will he?
 
