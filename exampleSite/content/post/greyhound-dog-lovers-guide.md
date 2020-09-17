@@ -2,12 +2,14 @@
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/uploads/greyhound-5465950_640.jpg"
 slug = "Greyhound Health Guide for Dog Lovers"
 title = "Greyhound Health Guide for Dog Lovers"
 
 +++
 The greyhound's devotion to man is legendary. They seem grateful for their new homes and reward their owners with never-ending affection. Raised with their littermates where they competed for attention, greyhounds love becoming the center of your attention as pets and will reward your love and affection by returning it tenfold!
+
+![](/uploads/greyhound-2945751_640.jpg)
 
 One difference between pet greyhounds and the average pet breed is that greyhounds (adults when adopted) have spent every waking moment in the company of other creatures. They have experienced lots of handling and frequent daily contact with humans and other dogs. 
 
@@ -23,13 +25,15 @@ Pale gums can indicate your greyhound has a blood parasite. Blood tests are avai
 
 ## BABESIOSIS 
 
-This is a relatively common disease found in Retired Greyhounds. A blood parasite, transmitted by the bite of a tick, a positive titer is found in approximately 75-80% of retired racers. Even dogs brought in from more Northern states are at risk due to the constant travel and shipping from track to track, with most tracks located in Southern states. A low titer, indicates exposure
+This is a relatively common disease found in Retired Greyhounds. A blood parasite, transmitted by the bite of a tick, a positive titer is found in approximately 75-80% of retired racers. Even dogs brought in from more Northern states are at risk due to the constant travel and shipping from track to track, with most tracks located in Southern states. 
 
-to the disease, whereas a high to moderately high titer may indicate active disease (even without clinical signs). Dogs with a high titer should be treated before they show signs of illness.
+A low titer, indicates exposure to the disease, whereas a high to moderately high titer may indicate active disease (even without clinical signs). Dogs with a high titer should be treated before they show signs of illness.
 
 ## "BALD BUTT" 
 
 syndrome seen in many Retired Greyhounds is in most cases due to "cage rub." Hypothyroidism is often blamed as the cause, however, this is seldom true. Many dogs regain their haircoat with time, others do not.
+
+![](/uploads/dog-3011991_640.jpg)
 
 ## BLOAT 
 
@@ -47,6 +51,8 @@ Due to the lack of adequate medical care in many instances, dogs may suffer from
 
  Many female dogs suffer from clitoral hypertrophy due to the steroid injections received on the track. This may become less prominent over time. This may lead to vaginal infections, or show no obvious signs of problems. Surgery is not usually recommended.
 
+![](/uploads/greyhound-2636370_640.jpg)
+
 ## SKIN DISEASES
 
  Due to the poor sanitary conditions they are kept in, many Retired Racers suffer from chronic skin diseases. Many chronic skin infections require extended special treatments. Others will benefit from dietary supplements.
@@ -58,6 +64,8 @@ This is the benign precursor to a cancerous condition, so it is recommended that
 ## DIARRHEA
 
  Chronic or recurring diarrhea in retired racers can be caused by bacteria not commonly seen in other pet dogs. They are often fed raw, diseased meat, which may be the origin of this bacteria. Certain antibiotics are more effective at eliminating this parasite; constant sanitization is essential to prevent spread.
+
+![](/uploads/dog-5377475_640.jpg)
 
 ## DIETARY INTOLERANCE
 
@@ -77,7 +85,9 @@ All dogs in south Texas must take heartworm preventive once a month.
 
 ## HYPOTHYROIDISM 
 
-Greyhounds have lower normal thyroid levels that other dogs. However they can still have hypothyroidism. Hypothyroidism in greyhounds can not be diagnosed by a test in the veterinary hospital but requires a test sent to the lab.
+Greyhounds have lower normal thyroid levels that other dogs. However, they can still have hypothyroidism. Hypothyroidism in greyhounds can not be diagnosed by a test in the veterinary hospital but requires a test sent to the lab.
+
+![](/uploads/greyhound-2636370_640.jpg)
 
 ## LACERATIONS 
 
