@@ -1,7 +1,6 @@
 +++
-date = ""
-description = ""
-draft = true
+date = 2020-09-25T23:00:00Z
+description = "Are you looking to travel with your pet and wondering what restrictions you may face? In this article, we take a look at how strict Amtrak pet Policy is. "
 image = ""
 slug = "How Strict Is Amtrak Pet Policy"
 title = "How Strict Is Amtrak Pet Policy?"
