@@ -58,4 +58,4 @@ The pure extracts are said to also have beneficial properties and can be used as
 
 ## Conclusion
 
-## An earache isn’t pleasant for you or your pet. There are ways to avoid one and also to treat it. Some of those, we have outlined in this article and hope that this helps you find the one best suited for you and your dog. We like garlic and coconut oil treatment, it smells great and may help your dog. Just remember that when it comes to anything to do with your pet's health, it is always advisable to seek medical advice from a veterinarian.
+An earache isn’t pleasant for you or your pet. There are ways to avoid one and also to treat it. Some of those, we have outlined in this article and hope that this helps you find the one best suited for you and your dog. We like garlic and coconut oil treatment, it smells great and may help your dog. Just remember that when it comes to anything to do with your pet's health, it is always advisable to seek medical advice from a veterinarian.
