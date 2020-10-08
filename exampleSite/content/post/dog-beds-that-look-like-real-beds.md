@@ -1,7 +1,6 @@
 +++
 date = 2020-10-14T23:00:00Z
 description = "Are you looking for dog beds that look like real beds? Our pets are our companions and we always want the very best for them including where they sleep. Dog beds come in all sorts of shapes and sizes. The way that your dog enjoys running up to you and cuddling on the couch, shows you that they also love the comforts of couches and beds. Why should where they sleep be any different? In this article, we take a look at those that look like real beds and what you can expect from them."
-draft = true
 image = ""
 slug = "Dog beds that look like real beds"
 title = "Dog beds that look like real beds"
