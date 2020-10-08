@@ -1,7 +1,6 @@
 +++
 date = 2020-10-21T23:00:00Z
-description = ""
-draft = true
+description = "Are you looking for home-made ear drops for dogs? Sometimes you need a quick solution for your pet in times of health crisis before you get to the vet. There are natural ways that you can use to help your pup with an earache, which can be debilitating and in some cases cause long-term health issues if not treated properly. Before you seek a home remedy, also find out what has caused the ear problem."
 image = ""
 slug = "Homemade Ear Drops for Dogs"
 title = "Homemade Ear Drops for Dogs"
