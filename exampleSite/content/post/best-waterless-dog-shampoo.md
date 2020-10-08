@@ -1,6 +1,6 @@
 +++
-date = ""
-description = ""
+date = 2020-10-07T23:00:00Z
+description = "Are you looking for the best waterless dog shampoo? Shampooing your dog is not always a walk in the park. Some dogs are not fans of bath time and if your dog stays indoors, you may need to constantly make sure that he or she is always clean. The great thing about waterless shampoo is that you can shampoo your dog without having to go the full nine yards and immersing your dog in water."
 draft = true
 image = ""
 slug = "Best Waterless Dog Shampoo"
@@ -30,7 +30,7 @@ This shampoo is a blend of silk and soy protein along with almond oil, specially
 
 This is another waterless spray shampoo that you can use on your dog. It is not a comprehensive shampoo, so you will still need to do the full bath, but it's great as a temporary measure. It does not contain any harmful ingredients. One of the disadvantages is that it is difficult to carry around with you, because of the shape of the bottle.
 
-### Bodhi Dog Waterless Shampoo
+### [Bodhi Dog Waterless Shampoo]()
 
 This is a quick fix to cleaning your dog and letting them back in the house without running a bath for them. It’s a waterless shampoo that is targeted at cleaning and may also leave your dogs feeling softer and smelling good.
 
