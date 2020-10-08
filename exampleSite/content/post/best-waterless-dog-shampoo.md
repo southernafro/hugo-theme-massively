@@ -44,8 +44,4 @@ It is easy to use. Simply spray on and brush down. It does not need water. It’
 
 ## Conclusion
 
-The great thing about waterless shampoos for dogs is that they allow you to keep your dog clean even without running a bath. Even if your dog is fussy, waterless shampoo is easy to
-
-use and won't irritate them much. It could also leave your dog's fur smelling
-
-great and feeling soft.
+The great thing about waterless shampoos for dogs is that they allow you to keep your dog clean even without running a bath. Even if your dog is fussy, waterless shampoo is easy to use and won't irritate them much. It could also leave your dog's fur smelling great and feeling soft.
