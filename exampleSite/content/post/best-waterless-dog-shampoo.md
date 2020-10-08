@@ -15,18 +15,18 @@ In this article, we take a look at the top shampoos for your canine, without hav
 
 Here's a list of some of the best waterless dog shampoos for dog owners on the go:
 
-* BioSilk for Dogs Moisturizing Dog Shampoos, Sprays & Cleansing Wipes Pet Head Dry Clean Spray Blueberry Muffin For Pets
-* Bodhi Dog Waterless Shampoo
+* [BioSilk for Dogs Moisturizing Dog Shampoos, Sprays & Cleansing Wipes Pet Head Dry Clean Spray Blueberry Muffin For Pets](https://www.amazon.com/BioSilk-Dogs-Therapy-Moisture-Waterless/dp/B07DQ64J4Q/ref=as_li_ss_tl?dchild=1&keywords=BioSilk+for+Dogs+Moisturizing+Dog+Shampoos,+Sprays+&+Cleansing+Wipes+Pet+Head+Dry+Clean+Spray+Blueberry+Muffin+For+Pets&qid=1602175089&sr=8-1&linkCode=ll1&tag=savets-20&linkId=8f97cc59cf86c8fc9c693e19d591d074&language=en_US)
+* [Bodhi Dog Waterless Shampoo](https://www.amazon.com/Bodhi-Dog-Lavender-Lemongrass-Waterless/dp/B08D4WGCD4/ref=as_li_ss_tl?crid=1LYJDIUR448B&dchild=1&keywords=bodhi+dog+waterless+shampoo&qid=1602175568&sprefix=Bodhi+Dog+Waterless+Shampoo,aps,250&sr=8-2&linkCode=ll1&tag=savets-20&linkId=26243d623507a75e74ac1d864e17b71d&language=en_US)
 * Burt’s Bees Pet Natural Waterless Shampoo
 * Lillian Ruff Waterless Dog Shampoo - No Rinse Quick Dry Shampoo Spray for Dogs and Cats
 
 Expanded list
 
-### BioSilk for Dogs Moisturizing Dog Shampoos, Sprays & Cleansing Wipes
+### [BioSilk for Dogs Moisturizing Dog Shampoos, Sprays & Cleansing Wipes](https://www.amazon.com/BioSilk-Dogs-Therapy-Moisture-Waterless/dp/B07DQ64J4Q/ref=as_li_ss_tl?dchild=1&keywords=BioSilk+for+Dogs+Moisturizing+Dog+Shampoos,+Sprays+&+Cleansing+Wipes+Pet+Head+Dry+Clean+Spray+Blueberry+Muffin+For+Pets&qid=1602175089&sr=8-1&linkCode=ll1&tag=savets-20&linkId=8f97cc59cf86c8fc9c693e19d591d074&language=en_US)
 
 This shampoo is a blend of silk and soy protein along with almond oil, specially formulated for the good health of your dog's skin. It comes in a spray bottle, making it easy to use on the go. It works the same way as a leave-in conditioner. Simply spray on and brush your dog. It also works well as a detangler. However, you will need to be careful of allergic reactions if your dog is allergic.
 
-### Pet Head Dry Clean Spray Blueberry Muffin For Pets
+### [Pet Head Dry Clean Spray Blueberry Muffin For Pets]()
 
 This is another waterless spray shampoo that you can use on your dog. It is not a comprehensive shampoo, so you will still need to do the full bath, but it's great as a temporary measure. It does not contain any harmful ingredients. One of the disadvantages is that it is difficult to carry around with you, because of the shape of the bottle.
 
