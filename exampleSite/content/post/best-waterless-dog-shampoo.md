@@ -7,9 +7,7 @@ slug = "Best Waterless Dog Shampoo"
 title = "Best Waterless Dog Shampoo"
 
 +++
-Are you looking for the best waterless dog shampoo? Shampooing your dog is not always a
-
-walk in the park. Some dogs are not fans of bath time and if your dog stays indoors, you may need to constantly make sure that he or she is always clean. The great thing about waterless shampoo is that you can shampoo your dog without having to go the full nine yards and immersing your dog in water.
+Are you looking for the best waterless dog shampoo? Shampooing your dog is not always a walk in the park. Some dogs are not fans of bath time and if your dog stays indoors, you may need to constantly make sure that he or she is always clean. The great thing about waterless shampoo is that you can shampoo your dog without having to go the full nine yards and immersing your dog in water.
 
 In this article, we take a look at the top shampoos for your canine, without having to use water. Let's take a look, shall we?
 
@@ -20,8 +18,6 @@ Here's a list of some of the best waterless dog shampoos for dog owners on the g
 * BioSilk for Dogs Moisturizing Dog Shampoos, Sprays & Cleansing Wipes Pet Head Dry Clean Spray Blueberry Muffin For Pets
 * Bodhi Dog Waterless Shampoo
 * Burt’s Bees Pet Natural Waterless Shampoo
-
-
 * Lillian Ruff Waterless Dog Shampoo - No Rinse Quick Dry Shampoo Spray for Dogs and Cats
 
 Expanded list
