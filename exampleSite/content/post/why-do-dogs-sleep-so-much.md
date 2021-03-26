@@ -1,7 +1,6 @@
 +++
 date = 2021-03-13T00:00:00Z
 description = "The amount that your dog sleeps depends on several factors: age, breed, the individual dog, and the activity level of your dog. In general, dogs sleep 12 to 15 hours a day. This is the equivalent of a human sleeping for 7 to 9 hours a night. "
-draft = true
 image = "/uploads/adorable-1850276_640.jpg"
 slug = "Why do dogs sleep so much"
 title = "Why do dogs sleep so much"
