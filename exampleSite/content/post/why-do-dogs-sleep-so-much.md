@@ -7,11 +7,13 @@ slug = "Why do dogs sleep so much"
 title = "Why do dogs sleep so much"
 
 +++
-The amount that your dog sleeps depends on several factors: age, breed, the individual dog, and the activity level of your dog. In general, dogs sleep 12 to 15 hours a day. This is the equivalent of a human sleeping for 7 to 9 hours a night. 
+The amount that your dog sleeps depends on several factors: age, breed, the individual dog, and the activity level of your dog. In general, dogs sleep 12 to 15 hours a day. This is the equivalent of a human sleeping for 7 to 9 hours a night.
 
 There is a lot of debate as to why dogs sleep so much. Some experts believe that it is because they are not as active as humans. Others feel that it is because they are descended from wolves, which are more active at night. The truth is that we do not know exactly why dogs sleep so much.
 
-While the question of why dogs sleep so much is often attributed to the fact that they are “lazy,” the reality is that dogs need to sleep a lot because their brains are much more active than ours. Dogs have many more active brain cells, and they need to rest to allow their bodies to repair and restore the cells. 
+![](/uploads/adorable-1850276_640.jpg)
+
+While the question of why dogs sleep so much is often attributed to the fact that they are “lazy,” the reality is that dogs need to sleep a lot because their brains are much more active than ours. Dogs have many more active brain cells, and they need to rest to allow their bodies to repair and restore the cells.
 
 In fact, studies have found that dogs sleep much more than humans, in total around 16-18 hours a day, while humans only need to sleep around 8 hours each night.
 
@@ -33,7 +35,7 @@ Many people believe that dogs sleep because it helps their bodies rest and recov
 
 ## Dogs sleep because it is not harmful.
 
-Dogs need to sleep so much because they are essentially biological machines. Their bodies require sleep just like we do, but they need much longer periods of time to rest their organs. 
+Dogs need to sleep so much because they are essentially biological machines. Their bodies require sleep just like we do, but they need much longer periods of time to rest their organs.
 
 ## Dogs need to sleep more to regulate body temperature
 
@@ -41,7 +43,9 @@ Dogs, like humans, need to regulate their body temperatures. Dogs are much more 
 
 ## Dogs sleep because it is natural.
 
-Humans do not know why dogs sleep so much any more than we know why babies sleep so much. This is how nature has chosen for dogs to function, as far as we can tell. 
+Humans do not know why dogs sleep so much any more than we know why babies sleep so much. This is how nature has chosen for dogs to function, as far as we can tell.
+
+![](/uploads/bed-1284238_640.jpg)
 
 ## Sleeping helps them to conserve energy.
 
@@ -53,7 +57,7 @@ Dogs today still retain some of the characteristics seen in their wolf ancestors
 
 ## They sleep more during colder months.
 
-Some dogs are more active in the winter months than others. Dogs are also affected by their environment, and they will sleep more as the weather gets colder. 
+Some dogs are more active in the winter months than others. Dogs are also affected by their environment, and they will sleep more as the weather gets colder.
 
 ## Dogs sleep when they are bored.
 
@@ -70,6 +74,8 @@ If you have ever exercised your dog, you know that he will be exhausted afterwar
 ## How much do puppies sleep?
 
 Just like adults, dogs can sleep at any time of the day or night. However, puppies do tend to sleep more than adults, and this is because they are still growing.
+
+![](/uploads/dog-1027549_640.jpg)
 
 ## How much do dogs sleep while playing
 
