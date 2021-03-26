@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 image = "/uploads/eyes-5248678_640.jpg"
 slug = "Eye infection in dogs"
 title = "Eye infection in dogs"
